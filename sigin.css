@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1319723972/photo/beautiful-young-asian-woman-sitting-cross-legged-by-the-promenade-against-urban-city-skyline.jpg?b=1&s=170667a&w=0&k=20&c=tab2AyGvz6M283JYgKSlqRxFrNaLwhjFaW9G_wye_PY=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 500px;
+    background-position: center;
+  }
+  .card{
+    background: transparent !important;
+    width: 26%;
+    text-align: center;
+    margin: auto;
+    padding: 65px 27px;
+    border-radius: 21px;
+    align-items: center;
+    border-color: #75869a;
+    margin-top: 10%;
+    box-shadow: 2px 2px 0px 3px rgba(0, 0, 0, 0.2)
+  }
+ 
+ 
